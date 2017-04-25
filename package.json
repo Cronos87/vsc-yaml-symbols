@@ -2,7 +2,7 @@
   "name": "yaml-symbols",
   "displayName": "yaml-symbols",
   "description": "Provide Symbols for Yaml files",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "publisher": "Cronos87",
   "author": "Yohan T.",
   "homepage": "https://github.com/Cronos87/vsc-yaml-symbols",
