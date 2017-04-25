@@ -2,7 +2,7 @@
   "name": "yaml-symbols",
   "displayName": "yaml-symbols",
   "description": "Provide Symbols for Yaml files",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Cronos87",
   "author": "Yohan Tambè",
   "homepage": "https://github.com/Cronos87/vsc-yaml-symbols",
@@ -23,14 +23,6 @@
     "onLanguage:yaml"
   ],
   "main": "./out/src/extension",
-  "contributes": {
-    "commands": [
-      {
-        "command": "extension.sayHello",
-        "title": "Hello World"
-      }
-    ]
-  },
   "scripts": {
     "vscode:prepublish": "tsc -p ./",
     "compile": "tsc -watch -p ./",
