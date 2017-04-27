@@ -1,14 +1,17 @@
 {
   "name": "yaml-symbols",
-  "displayName": "yaml-symbols",
-  "description": "Provide Symbols for Yaml files",
-  "version": "0.1.0",
+  "displayName": "Yaml Symbols",
+  "description": "Provide Symbols for Yaml Files",
+  "version": "0.1.1",
   "publisher": "Cronos87",
-  "author": "Yohan T.",
   "homepage": "https://github.com/Cronos87/vsc-yaml-symbols",
   "bugs": {
-        "url": "https://github.com/Cronos87/vsc-yaml-symbols/issues"
-    },
+    "url": "https://github.com/Cronos87/vsc-yaml-symbols/issues"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/Cronos87/vsc-yaml-symbols"
+  },
   "engines": {
     "vscode": "^1.10.0"
   },
